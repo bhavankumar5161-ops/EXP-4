@@ -75,7 +75,7 @@ s.close()
 
 ## Output: 
 
-<img width="927" height="692" alt="Screenshot 2026-03-11 114336" src="https://github.com/user-attachments/assets/7295f8e1-ea24-4aac-94e3-41236e086a4b" />
+
 
 
 ## Result
