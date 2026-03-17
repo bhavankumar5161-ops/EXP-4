@@ -75,6 +75,15 @@ s.close()
 
 ## Output: 
 
+<img width="1112" height="784" alt="Screenshot 2026-03-17 092737" src="https://github.com/user-attachments/assets/ba502bdd-5ad4-4817-adb8-783930a2fcf5" />
+
+<img width="1104" height="844" alt="Screenshot 2026-03-17 092754" src="https://github.com/user-attachments/assets/9e73e4ac-a06a-46b4-a820-8c2f8a365124" />
+
+<img width="991" height="830" alt="Screenshot 2026-03-17 092834" src="https://github.com/user-attachments/assets/fe14b574-f9ae-4ce4-9e2b-eb4754dc5586" />
+
+<img width="968" height="323" alt="Screenshot 2026-03-17 092857" src="https://github.com/user-attachments/assets/6b776d06-55fb-4133-a727-fc7cac5913d4" />
+
+
 
 
 
