@@ -1,3 +1,6 @@
+### REGISTER NO: 212225240026
+## DATE: 9.3.2026
+
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
@@ -83,8 +86,17 @@ s.close()
 
 <img width="968" height="323" alt="Screenshot 2026-03-17 092857" src="https://github.com/user-attachments/assets/6b776d06-55fb-4133-a727-fc7cac5913d4" />
 
+<img width="885" height="799" alt="Screenshot 2026-03-17 093014" src="https://github.com/user-attachments/assets/f322ac34-255f-45fe-9231-8c640c3edce1" />
 
+<img width="1123" height="810" alt="Screenshot 2026-03-17 093040" src="https://github.com/user-attachments/assets/a2be66f5-861e-4abf-a781-4f06fee10ad1" />
 
+<img width="1075" height="307" alt="Screenshot 2026-03-17 093142" src="https://github.com/user-attachments/assets/f7fa5381-1d72-4e52-94eb-b8594dd1967f" />
+
+<img width="759" height="450" alt="Screenshot 2026-03-17 093211" src="https://github.com/user-attachments/assets/affb8cca-9148-4f88-8f1a-76c96284a5b4" />
+
+<img width="1124" height="291" alt="Screenshot 2026-03-17 093257" src="https://github.com/user-attachments/assets/f65720b0-6bea-40ab-a9e0-a9938f30a8f5" />
+
+<img width="504" height="312" alt="Screenshot 2026-03-17 093312" src="https://github.com/user-attachments/assets/c34993cf-7b67-4323-8cde-c34f66925b83" />
 
 
 ## Result
